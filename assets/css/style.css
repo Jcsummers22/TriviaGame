@@ -1,0 +1,45 @@
+* {
+	font-family: 'Ubuntu', sans-serif;
+	color: #BCFEFF;
+}
+
+body {
+	background-image: url('../images/tweed.png');
+}
+
+.btn {
+	width: 250px;
+	border-radius: 0;
+	background-color: #B0D4FF;
+	margin: 10px;
+	color: #3F545C;
+}
+
+.btn:hover {
+	background-color: #BCFEFF;
+}
+
+h1 {
+	font-family: 'Orbitron', sans-serif;
+}
+
+#question {
+	font-size: 24px;
+}
+
+.gifs {
+	max-width: 450px;
+	max-height: 450px;
+}
+
+#gifHolder {
+	margin-top: -60px;
+}
+
+.container-fluid {
+	background: rgb(105, 105, 105);
+	background: rgba(105, 105, 105, .5);
+	width: 600px;
+	margin-top: 50px;
+	padding-bottom: 20px;
+}
